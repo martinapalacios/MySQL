@@ -17,4 +17,6 @@ RowDataPacket {
   stock_quantity: 200
 } Product was found
 
-## End of Customer Selection
+## End of bamazonCustomer.js
+
+The app will automatically exit from terminal
