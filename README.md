@@ -3,7 +3,7 @@
 Bamazon is a MySQL application that will take orders from Customer and update the database
 
 ### MySQL Database
-![MySQL Database](/screenshots/bamazon database table with items bought.png)
+(/screenshots/bamazon database table with items bought.png)
 
 ## Run bamazonCustomer.js
 
