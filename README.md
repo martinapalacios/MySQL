@@ -2,9 +2,9 @@
 
 Bamazon is a MySQL application that will take orders from Customer and update the database
 
-### MySQL Database
+### MySQL Database Full
 
-![selected](/simages/databasefull.png)
+![selected](/images/databasefull.png)
 
 ## Run bamazonCustomer.js
 
@@ -18,14 +18,8 @@ Bamazon is a MySQL application that will take orders from Customer and update th
 
 ## Output
 
-RowDataPacket {
-  item_id: 7,
-  product_name: 'Fishing Hats',
-  department_name: 'Outdoors',
-  price: 9,
-  stock_quantity: 200
-} Product was found
 
-## End of bamazonCustomer.js
 
-The app will automatically exit from terminal
+## MySQL Database edits
+
+![selected](/images/databaseedit.png)
